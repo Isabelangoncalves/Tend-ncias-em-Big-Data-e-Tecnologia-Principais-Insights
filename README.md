@@ -1,5 +1,6 @@
 # Tendências em Big Data e Tecnologia Principais Insights
 Foi realizada uma análise de vagas nas áreas de Dados e BI para entender o que o mercado realmente busca.
+
 ✅ Hard skills mais pedidas: SQL, Python, Power BI 
 
 ✅ Soft skills em alta: Comunicação, perfil analítico, proatividade 
